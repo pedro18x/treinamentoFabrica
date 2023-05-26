@@ -1,4 +1,4 @@
-from exercicio2dados import Retangulo
+from exercício2dados import Retangulo
 
 ret_calc = Retangulo(10, 4)
 
